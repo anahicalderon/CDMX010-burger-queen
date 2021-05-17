@@ -1,0 +1,11 @@
+.h2, h2{
+    color:rgb(66, 52, 228)
+}
+.body, body{
+    background: rgb(248, 244, 192);
+}
+
+.img, img{
+    width: 20%;
+    height: 20%;
+}
